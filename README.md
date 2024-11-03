@@ -1,5 +1,5 @@
 # Modelo Tela
-![TELA](https://github.com/taynarossauro/MODELO_TELA/blob/main/Captura%20de%20Tela%202024-11-03%20às%2018.55.24.png)
+![TELA](./Captura%20de%20Tela%202024-11-03%20às%2018.55.24.png)
 
 
 ESSA ATIVIDADE AINDA NÃO FOI FINALIZADA E CONTÉM ERROS!

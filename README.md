@@ -1,7 +1,5 @@
-# Modelo Tela
-![TELA](https://github.com/taynarossauro/MODELO_TELA/blob/main/Telinha.png)
-
 # Interface_de_Usuário_Básica_Com_Swing
+![TELA](https://github.com/taynarossauro/MODELO_TELA/blob/main/Telinha.png)
 
 Este projeto implementa uma interface gráfica básica usando `Swing` em Java. A aplicação exibe uma janela com um campo de texto e três botões dispostos em diferentes layouts, demonstrando o uso do `BorderLayout` e `FlowLayout` para organizar os componentes na interface.
 
